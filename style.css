@@ -1,0 +1,43 @@
+input {
+    width: 40px;
+    border: 2px solid blue;
+}
+
+select {
+    width: 40px;
+    border: 2px solid blue;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    border: 2px solid blue;
+}
+
+div {
+    padding: 10px;
+    width: 216px;
+    border: 2px solid rgb(99, 99, 248);
+}
+
+p#demo {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.demo {
+    text-align: justify;
+}
+
+.dem {
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    padding: 20px;
+    width: 240px;
+    height: max-height;
+    background-color: rgb(204, 198, 198);
+    border: 2px solid rgb(99, 99, 248);
+}
